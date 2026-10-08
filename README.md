@@ -4,6 +4,8 @@ An end-to-end ML project: data cleaning, feature engineering, model training
 (XGBoost) with hyperparameter tuning, evaluation, and a FastAPI service for
 real-time predictions — containerized with Docker.
 
+"https://churn-prediction-fb3h.onrender.com/docs"
+
 ## Problem
 
 Predict whether a telecom customer will churn, using their account,
